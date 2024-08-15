@@ -1,0 +1,23 @@
+{
+    "translations": {
+        "de": {
+            "IP-Address": "IP-Adresse",
+            "Interval": "Intervall",
+            "seconds": "Sekunden",
+            "Phase A current measurement value": "Phase A Strommesswert",
+            "Phase A voltage measurement value": "Phase A Spannungsmesswert",
+            "Phase A active power measurement value": "Phase A Wirkleistungsmesswert",
+            "Phase B current measurement value": "Phase B Strommesswert",
+            "Phase B voltage measurement value": "Phase B Spannungsmesswert",
+            "Phase B active power measurement value": "Phase B Wirkleistungsmesswert",
+            "Phase C current measurement value": "Phase C Strommesswert",
+            "Phase C voltage measurement value": "Phase C Spannungsmesswert",
+            "Phase C active power measurement value": "Phase C Wirkleistungsmesswert",
+            "Sum of the active power on all phases": "Summe der Wirkleistung auf allen Phasen",
+            "Total active energy on phase A": "Gesamtwirkenergie der Phase A",
+            "Total active energy on phase B": "Gesamtwirkenergie der Phase B",
+            "Total active energy on phase C": "Gesamtwirkenergie der Phase C",
+            "Total active energy on all phases": "Gesamtwirkenergie auf allen Phasen"
+        }
+    }
+}

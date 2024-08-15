@@ -1,0 +1,23 @@
+{
+    "elements": [
+        {
+            "name": "IPAddress",
+            "type": "ValidationTextBox",
+            "caption": "IP-Address"
+        },
+        {
+            "name": "Interval",
+            "type": "NumberSpinner",
+            "caption": "Interval",
+            "suffix": "seconds"
+        }
+    ],
+    "actions": [
+        {
+            "type": "Button",
+            "caption": "Update",
+            "onClick": "SRPC_Update($id);"
+        }
+    ],
+    "status": []
+}

@@ -1,0 +1,12 @@
+{
+    "id": "{56E78822-F6DD-AA60-6863-64D33F4DA1A0}",
+    "name": "ShellyRPC",
+    "author": "Michael Maroszek",
+    "url": "https://www.symcon.de",
+    "compatibility": {
+        "version": "7.1"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

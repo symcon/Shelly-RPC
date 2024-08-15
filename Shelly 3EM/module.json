@@ -1,0 +1,12 @@
+{
+    "id": "{9681C5E6-FCD5-813D-D583-606F3469A27D}",
+    "name": "Shelly 3EM",
+    "type": 3,
+    "vendor": "Shelly",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SRPC",
+    "url": "https://www.symcon.de"
+}
